@@ -9,6 +9,7 @@ import CardProduto_07 from './pages/CardProduto_07'
 import CardProduto_08 from './pages/CardProduto_08'
 import CardProduto_09 from './pages/CardProduto_09'
 import CardProduto_10 from './pages/CardProduto_10'
+import CardProduto_11 from './pages/CardProduto_11'
 
 function App() {
 
@@ -24,6 +25,7 @@ function App() {
       <CardProduto_08 />
       <CardProduto_09 />
       <CardProduto_10 />
+      <CardProduto_11 />
     </>
   )
 }
