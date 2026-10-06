@@ -4,6 +4,7 @@ import Contador_02 from './pages/Contador_02'
 import Alerta_03 from './pages/Alerta_03'
 import Contador_04 from './pages/Contador_04'
 import Contador_05 from './pages/Contador_05'
+import Contador_06 from './pages/Contador_06'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <Alerta_03 />
       <Contador_04 />
       <Contador_05 />
+      <Contador_06 />
     </>
   )
 }
