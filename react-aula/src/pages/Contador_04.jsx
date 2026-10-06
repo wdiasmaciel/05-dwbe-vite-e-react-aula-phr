@@ -9,9 +9,12 @@ export default function Contador_04() {
     }
 
     return (
-        <button onClick={incrementar}>
-            Incrementar
-        </button>
+        <>
+            <h1>Contador_04: {contador}</h1>
+            <button onClick={incrementar}>
+                Incrementar
+            </button>
+        </>
     );
 
 }
