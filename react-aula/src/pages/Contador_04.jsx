@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 export default function Contador_04() {
 
     const [contador, setContador] = useState(0);
