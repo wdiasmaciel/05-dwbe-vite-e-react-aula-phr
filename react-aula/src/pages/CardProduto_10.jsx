@@ -18,7 +18,7 @@ function CardProduto_10() {
 
     return (
         <div className="card">
-            <h1>CardProduto_09</h1>
+            <h1>CardProduto_10</h1>
             <h2>{nome}</h2>
             <p>Estoque: {estoque}</p>
             <button onClick={() => setNome("Mouse Gamer")}>
