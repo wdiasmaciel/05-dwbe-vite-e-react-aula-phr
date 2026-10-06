@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <Contador_01 />
+      <Contador_02 />
     </>
   )
 }
