@@ -6,6 +6,7 @@ import Contador_04 from './pages/Contador_04'
 import Contador_05 from './pages/Contador_05'
 import Contador_06 from './pages/Contador_06'
 import CardProduto_07 from './pages/CardProduto_07'
+import CardProduto_08 from './pages/CardProduto_08'
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
       <Contador_05 />
       <Contador_06 />
       <CardProduto_07 />
+      <CardProduto_08 />
     </>
   )
 }
