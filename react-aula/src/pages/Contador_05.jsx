@@ -14,7 +14,7 @@ export default function Contador_05() {
 
     return (
         <>
-            <h1>Contador_04: {contador}</h1>
+            <h1>Contador_05: {contador}</h1>
             <button onClick={incrementar}>
                 Incrementar
             </button>
