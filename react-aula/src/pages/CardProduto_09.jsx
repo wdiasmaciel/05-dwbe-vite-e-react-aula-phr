@@ -17,7 +17,7 @@ function CardProduto_09() {
 
     return (
         <div className="card">
-            <h1>CardProduto_08</h1>
+            <h1>CardProduto_09</h1>
             <h2>Notebook Dell</h2>
             <p>Estoque: {estoque}</p>
             <button onClick={vender}>
