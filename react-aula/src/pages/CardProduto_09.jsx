@@ -1,14 +1,18 @@
 import { useState } from "react";
 import '../style/style.css'
 
-function CardProduto_08() {
+function CardProduto_09() {
 
     const [estoque, setEstoque] = useState(10);
-
+    
     function vender() {
         if (estoque > 0) {
             setEstoque(estoque - 1);
         }
+    }
+    
+    function repor() {
+        setEstoque(estoque + 1);
     }
 
     return (
@@ -19,9 +23,12 @@ function CardProduto_08() {
             <button onClick={vender}>
                 Vender
             </button>
+            <button onClick={repor}>
+                Repor
+            </button>
         </div>
     );
 
 }
 
-export default CardProduto_08;
+export default CardProduto_09;

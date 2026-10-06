@@ -7,6 +7,7 @@ import Contador_05 from './pages/Contador_05'
 import Contador_06 from './pages/Contador_06'
 import CardProduto_07 from './pages/CardProduto_07'
 import CardProduto_08 from './pages/CardProduto_08'
+import CardProduto_09 from './pages/CardProduto_09'
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
       <Contador_06 />
       <CardProduto_07 />
       <CardProduto_08 />
+      <CardProduto_09 />
     </>
   )
 }

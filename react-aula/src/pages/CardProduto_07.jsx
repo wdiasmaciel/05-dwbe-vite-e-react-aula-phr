@@ -1,7 +1,7 @@
 import { useState } from "react";
 import '../style/style.css'
 
-function CardProduto() {
+function CardProduto_07() {
 
     const [estoque, setEstoque] = useState(10);
 
@@ -18,4 +18,4 @@ function CardProduto() {
 
 }
 
-export default CardProduto;
+export default CardProduto_07;
