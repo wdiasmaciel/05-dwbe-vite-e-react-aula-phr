@@ -13,7 +13,6 @@ function Contador_02() {
             </button>
         </div>
     );
-
 }
 
 export default Contador_02;
