@@ -6,10 +6,10 @@ const [contador, setContador] = useState(0);
 
 return (
 	<div>
-		<h1>{contador}</h1>
+		<h1>Contador_01: {contador}</h1>
 	</div>
 );
 
 }
 
-export default App;
+export default Contador_01;
