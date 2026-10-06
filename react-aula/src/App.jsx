@@ -10,6 +10,7 @@ import CardProduto_08 from './pages/CardProduto_08'
 import CardProduto_09 from './pages/CardProduto_09'
 import CardProduto_10 from './pages/CardProduto_10'
 import CardProduto_11 from './pages/CardProduto_11'
+import Contador_12 from './pages/Contador_12'
 
 function App() {
 
@@ -26,6 +27,7 @@ function App() {
       <CardProduto_09 />
       <CardProduto_10 />
       <CardProduto_11 />
+      <Contador_12 />
     </>
   )
 }
