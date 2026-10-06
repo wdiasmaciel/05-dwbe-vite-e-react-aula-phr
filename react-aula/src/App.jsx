@@ -12,6 +12,7 @@ function App() {
       <Contador_02 />
       <Alerta_03 />
       <Contador_04 />
+      <Contador_05 />
     </>
   )
 }
